@@ -3,7 +3,7 @@ package com.example.dynatrace9;
 import java.util.Map;
 
 public class Constant {
-    public static final String DYNATRACE_API_TOKEN = "dt0c01.G5VNEDEZGLKI4AKUI3UX6AGA.HBVEOKBCY4P6TUCMGCVUAME4OHIHFESNZEMSLOXY34QZASGGIN6JEBDNFOE7AIPG";
+    public static final String DYNATRACE_API_TOKEN = "API_Token";
     public static final String ENTITY_SERVICE_URL = "https://macys-qa.live.dynatrace.com/api/v2/entities";
     public static final String METRICS_URL = "https://macys-qa.live.dynatrace.com/api/v2/metrics/query";
     public static final String PROBLEMS_URL = "https://macys-qa.live.dynatrace.com/api/v2/problems";
